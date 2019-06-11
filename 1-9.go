@@ -16,7 +16,7 @@ func main() {
                 player[1] = player[1] + 1
             }
         }
-        if d == "" {
+        if d == "d" {
             if player[1] != 0 {
                 player[1] = player[1] - 1
             }
